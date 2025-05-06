@@ -1,0 +1,122 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Matrix",
+      "request": "launch",
+      "mainClass": "Matrix",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Average",
+      "request": "launch",
+      "mainClass": "Average",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Pack",
+      "request": "launch",
+      "mainClass": "Pack",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Msg",
+      "request": "launch",
+      "mainClass": "Msg",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Word",
+      "request": "launch",
+      "mainClass": "Word",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch User",
+      "request": "launch",
+      "mainClass": "User",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Arm",
+      "request": "launch",
+      "mainClass": "Arm",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Read",
+      "request": "launch",
+      "mainClass": "Read",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Gar",
+      "request": "launch",
+      "mainClass": "Gar",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sort",
+      "request": "launch",
+      "mainClass": "Sort",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch ConstOver",
+      "request": "launch",
+      "mainClass": "ConstOver",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Poly",
+      "request": "launch",
+      "mainClass": "Poly",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch StuDetails",
+      "request": "launch",
+      "mainClass": "StuDetails",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "type": "java",
+      "name": "Launch Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "Java_76d22548"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Roshan Mathew/Desktop/Java",
+      "program": "c:/Users/Roshan Mathew/Desktop/Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

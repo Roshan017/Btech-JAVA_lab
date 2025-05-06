@@ -1,0 +1,2 @@
+12345
+The type new ActionListener(){} must implement the inherited abstract method ActionListener.actionPerformed(ActionEvent)
